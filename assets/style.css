@@ -1,0 +1,11 @@
+.text-git {
+   font-family: arial;
+   font-size: 40px;
+   margin: 2rem;
+}
+
+.button-save {
+   padding: 8px 12px;
+   margin: 2rem;
+   outline: none;
+}
